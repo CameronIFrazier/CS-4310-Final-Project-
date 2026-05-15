@@ -45,25 +45,6 @@ Or with conda:
 conda install pytorch torchvision matplotlib numpy -c pytorch
 ```
 
----
-
-## Repository Structure
-
-```
-.
-├── DCGAN.ipynb               # Main notebook (training, inference, demo)
-├── data/                     # MNIST dataset (auto-downloaded)
-├── output_images/            # Saved image grids per epoch + plots
-│   ├── epoch_001.png
-│   ├── loss_curves.png
-│   ├── progression.png
-│   ├── real_vs_fake.png
-│   └── interpolation.png
-├── generator_mnist.pth       # Saved Generator weights (after training)
-└── discriminator_mnist.pth   # Saved Discriminator weights (after training)
-```
-
----
 
 ## Main Code Locations
 
