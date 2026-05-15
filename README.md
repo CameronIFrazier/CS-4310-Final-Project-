@@ -10,8 +10,8 @@ A PyTorch implementation of a **Deep Convolutional GAN (DCGAN)** trained on the 
 
 1. **Clone the repository** and navigate to the project folder:
    ```bash
-   git clone <your-repo-url>
-   cd <repo-folder>
+   git clone <CS-4310-Final-Project>
+   cd <CS-4310-Final-Project>
    ```
 
 2. **Install dependencies** (see below).
